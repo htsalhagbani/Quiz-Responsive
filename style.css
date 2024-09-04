@@ -216,14 +216,14 @@ footer ul li{
         width: 15vw;
         height: 20vh;
         background-color: black;
-        transform:  translateX(10rem) translateY(8rem);
+        transform:  translateX(6rem) translateY(8rem);
     }
 
     .blue2{
         width: 15vw;
         height: 9vh;
         background-color: blue;
-        transform: translateY(2rem) translateX(6rem);
+        transform: translateY(2rem) translateX(3rem);
     }
  
 }
